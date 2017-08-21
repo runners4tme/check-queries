@@ -1,6 +1,6 @@
 {
   "name": "check-queries",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small package to handle request queries",
   "main": "index.js",
   "directories": {
