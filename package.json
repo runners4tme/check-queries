@@ -1,0 +1,29 @@
+{
+  "name": "check-queries",
+  "version": "0.0.1",
+  "description": "A small package to handle request queries",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runners4tme/check-queries.git"
+  },
+  "keywords": [
+    "Queries"
+  ],
+  "author": "latani masithi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runners4tme/check-queries/issues"
+  },
+  "homepage": "https://github.com/runners4tme/check-queries#readme"
+}
