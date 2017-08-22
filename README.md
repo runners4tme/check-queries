@@ -2,9 +2,9 @@
 
 ## Instructions
 
-1. Install the package
+1. Install the package :
 
-npm install
+    npm install
 
 2. Refer to the examples on how to use it
 
