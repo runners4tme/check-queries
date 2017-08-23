@@ -4,7 +4,10 @@
 
 1. Install the package :
 
+    ```
     npm install
+
+    ```
 
 2. Refer to the examples on how to use it
 
